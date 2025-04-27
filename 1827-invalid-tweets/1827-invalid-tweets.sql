@@ -1,3 +1,3 @@
-/* Write your PL/SQL query statement below */
+/* Write your T-SQL query statement below */
 SELECT tweet_id FROM Tweets
-WHERE LENGTH(content)>15
+WHERE LEN(content)>15
