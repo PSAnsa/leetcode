@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/PSAnsa/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PSAnsa/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
