@@ -27,6 +27,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PSAnsa/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PSAnsa/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/PSAnsa/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PSAnsa/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/PSAnsa/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PSAnsa/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/PSAnsa/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PSAnsa/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -49,4 +51,20 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PSAnsa/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sorting
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
