@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PSAnsa/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PSAnsa/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
