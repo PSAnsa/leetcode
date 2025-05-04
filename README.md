@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/PSAnsa/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/PSAnsa/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PSAnsa/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/PSAnsa/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PSAnsa/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -69,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -77,10 +80,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PSAnsa/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Counting
