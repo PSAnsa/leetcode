@@ -1,7 +1,7 @@
 class Solution(object):
     def buildArray(self, nums):
-        arr = [0] * len(nums)
+        arr = []
         for i in range(len(nums)):
-            val = nums[i]
-            arr[i] = nums[val]
+            # val = nums[i]
+            arr.append(nums[nums[i]])
         return arr
