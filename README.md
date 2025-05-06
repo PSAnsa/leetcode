@@ -14,6 +14,7 @@
 | ------- |
 | [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PSAnsa/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -91,10 +93,12 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PSAnsa/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/PSAnsa/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PSAnsa/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
 | ------- |
