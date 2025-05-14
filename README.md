@@ -16,6 +16,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PSAnsa/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,11 +62,13 @@
 | [0868-push-dominoes](https://github.com/PSAnsa/leetcode/tree/master/0868-push-dominoes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PSAnsa/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PSAnsa/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -98,12 +101,14 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PSAnsa/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
 | ------- |
