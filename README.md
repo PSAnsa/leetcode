@@ -40,6 +40,7 @@
 | [2048-build-array-from-permutation](https://github.com/PSAnsa/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PSAnsa/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PSAnsa/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/PSAnsa/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/PSAnsa/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PSAnsa/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -100,6 +101,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/PSAnsa/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PSAnsa/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PSAnsa/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/PSAnsa/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PSAnsa/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/PSAnsa/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
@@ -113,4 +115,9 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/PSAnsa/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2428-equal-row-and-column-pairs](https://github.com/PSAnsa/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/PSAnsa/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
